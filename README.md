@@ -14,7 +14,7 @@
 ---
 
 ## Project Aim  
-Develop a crowd monitoring application using the QIDK to detect and monitor the presence and movement of people in a specified area.
+Develop a crowd monitoring application using the QIDK to detect and monitor emotions of people
 
 ---
 
