@@ -1,1 +1,2 @@
 /home/Atharva/Downloads/EMOTION/ESW-PROJECT/ESW_PROJECT/ filter=lfs diff=lfs merge=lfs -text
+/home/Atharva/Downloads/EMOTION/ESW-PROJECT/ESW_PROJECT/Emotion-detection filter=lfs diff=lfs merge=lfs -text
