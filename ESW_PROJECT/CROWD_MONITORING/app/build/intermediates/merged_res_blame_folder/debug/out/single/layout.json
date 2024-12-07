@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_camera.xml",
+        "source": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/info_bottom_sheet.xml",
+        "source": "/home/Atharva/Downloads/EMOTION/WORKING_ANSH/AdaMLS_Mobile-main/app/src/main/res/layout/info_bottom_sheet.xml"
+    }
+]

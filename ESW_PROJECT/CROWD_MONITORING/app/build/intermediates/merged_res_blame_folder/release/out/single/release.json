@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable_ic_plus.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/layout_activity_main.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/layout_info_bottom_sheet.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable_icn_chevron_up.png.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/drawable/icn_chevron_up.png"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/navigation_nav_graph.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable_ic_minus.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable-v24_tfl_logo.png.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/drawable-v24/tfl_logo.png"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/color_selector_ic.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/color/selector_ic.xml"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/build/intermediates/merged_res/release/layout_fragment_camera.xml.flat",
+        "source": "/home/atharva/Downloads/AdaMLS_Mobile-main/app/src/main/res/layout/fragment_camera.xml"
+    }
+]
